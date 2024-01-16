@@ -1,2 +1,2 @@
 # BlogWebsite
- log Website for 3rd sem subject MINI PROJECT
+ Blog Website for 3rd sem subject MINI PROJECT
